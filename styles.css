@@ -193,6 +193,25 @@ nav .right a span{
     font-weight: normal;    
 }
 
+/*Section 4 Contact*/
+
+.contact-section {
+    padding: 0 50px;
+    margin-bottom: 100px;
+
+}
+
+.contact-section h2 {
+    font-size: 35px;
+}
+
+.contact-section .group {
+    display: flex;
+    gap: 50px;
+}
+
+
+
 /*Mobile*/
 
 @media (max-width: 850px) {
@@ -213,7 +232,7 @@ nav .right a span{
 
     }
 
-    /*Section 3*/
+    /*Section 3 testimony*/
     .testimony-section {
         text-align: center;
     }
